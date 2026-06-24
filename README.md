@@ -28,6 +28,17 @@ This writes, next to each other:
 * `Requirement_<ClientName>_FY_<years>.xlsx` — the branded one-page list
 * `Requirement_<ClientName>_FY_<years>_memo.txt` — the reconciliation memo
 
+### Local web UI
+
+```bash
+python app.py                 # http://localhost:5000
+PORT=8080 python app.py       # custom port
+```
+
+Open the address in a browser, paste or upload a client JSON spec, click
+**Generate**, then download the `.xlsx` and the memo. The form is pre-filled
+with the Nitin Kumar Jain example.
+
 ### As a library
 
 ```python

@@ -1,3 +1,4 @@
 openpyxl>=3.1
+flask>=3.0          # only for the local web UI (app.py)
 # Optional, only for the .xls balance-sheet ingestion path:
 # xlrd>=2.0
