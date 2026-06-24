@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# LibreOffice QA artefacts
+*.pdf
+preview*.png
+lo_profile/

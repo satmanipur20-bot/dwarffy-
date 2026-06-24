@@ -1,0 +1,36 @@
+RECONCILIATION MEMO
+Client: NITIN KUMAR JAIN  |  PAN: AFCPJ2469P  |  A.Y. 2026-27
+========================================================================
+
+(a) Appearing in only ONE source — confirm whether to include:
+  - Axis Bank Current (Paona Bazar) — A/c 911020022433850: appears only in ais
+  - Axis Bank Savings — A/c 921010037804474: appears only in ais
+  - ICICI Bank Savings — A/c 634301520999: appears only in ais
+  - fixed_deposit Indian Overseas Bank — Ref 0073204000002576: appears only in balance_sheet
+  - fixed_deposit Indian Overseas Bank — Ref 0073204000004358: appears only in balance_sheet
+  - fixed_deposit Axis Bank — Ref 914040013630351: appears only in balance_sheet
+  - recurring_deposit Indian Overseas Bank — Ref 4875688424: appears only in balance_sheet
+  - Post Office Recurring Deposit (RD) — Ref —: appears only in balance_sheet
+  - mutual_fund ICICI Prudential — Ref 34789546 / 40545926: appears only in balance_sheet
+  - mutual_fund DSP — Ref 9369175: appears only in balance_sheet
+  - mutual_fund HDFC — Ref 30821852: appears only in balance_sheet
+  - mutual_fund Kotak Mahindra — Ref 15218703: appears only in balance_sheet
+  - mutual_fund SBI — Ref 39993687: appears only in balance_sheet
+  - demat — Ref —: appears only in balance_sheet
+  - LIC – Jeevan Astha Policy (Premium Receipt / Statement) — Ref —: appears only in balance_sheet
+  - gold — Ref —: appears only in balance_sheet
+
+(b) Genuine digit / format mismatches (after normalising zero-padding):
+  None.
+
+(c) Matured / closed instruments excluded from the list:
+  None.
+
+(d) Items deliberately omitted per firm convention:
+  - Loans & advances and fixed assets in the balance sheet are excluded from the requirement list per firm convention.
+
+(e) Form type & due date concluded:
+  Form ITR-3: tax audit applies u/s 44AB. Due 31 OCTOBER 2026: tax-audit case u/s 44AB.
+
+Additional notes:
+  Proprietary business at Thangal Bazar; tax audit u/s 44AB applicable for FY 2025-26.

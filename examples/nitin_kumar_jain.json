@@ -1,0 +1,64 @@
+{
+  "particulars": {
+    "name": "NITIN KUMAR JAIN",
+    "pan": "AFCPJ2469P",
+    "status": "Individual",
+    "gender": "male",
+    "assessment_year": "2026-27",
+    "previous_year": "2025-26 (01.04.2025 to 31.03.2026)",
+    "address": "Thangal Bazar, Imphal West, Manipur - 795001"
+  },
+  "profile": {
+    "has_business": true,
+    "tax_audit_44ab": true,
+    "gst_turnover": null,
+    "section_10_26": false,
+    "notes": "Proprietary business at Thangal Bazar; tax audit u/s 44AB applicable for FY 2025-26."
+  },
+  "sources": {
+    "ais": {
+      "bank_accounts": [
+        {"bank": "Axis Bank", "account_type": "Current", "account_no": "911020022433850"},
+        {"bank": "Axis Bank", "account_type": "Current", "branch": "Paona Bazar", "account_no": "911020022433850"},
+        {"bank": "Axis Bank", "account_type": "Savings", "account_no": "921010037804474"},
+        {"bank": "State Bank of India", "account_type": "Savings", "account_no": "00000010929211899"},
+        {"bank": "Indian Overseas Bank", "account_type": "Savings", "account_no": "0073201000037676"},
+        {"bank": "Indian Overseas Bank", "account_type": "Current", "account_no": "073202000001478"},
+        {"bank": "ICICI Bank", "account_type": "Savings", "account_no": "634301520999"}
+      ],
+      "investments": []
+    },
+    "balance_sheet": {
+      "bank_accounts": [
+        {"bank": "Axis Bank", "account_type": "Current", "account_no": "911020022433850"},
+        {"bank": "State Bank of India", "account_type": "Savings", "account_no": "10929211899"},
+        {"bank": "Indian Overseas Bank", "account_type": "Current", "account_no": "073202000001478"}
+      ],
+      "investments": [
+        {"kind": "fixed_deposit", "entity": "Indian Overseas Bank", "ref": "0073204000002576"},
+        {"kind": "fixed_deposit", "entity": "Indian Overseas Bank", "ref": "0073204000004358"},
+        {"kind": "fixed_deposit", "entity": "Axis Bank", "ref": "914040013630351"},
+        {"kind": "recurring_deposit", "entity": "Indian Overseas Bank", "branch": "CPRC, Chennai", "ref": "4875688424"},
+        {"label": "Post Office Recurring Deposit (RD)", "ref": "—"},
+        {"kind": "mutual_fund", "entity": "ICICI Prudential", "rta": "CAMS", "ref": "34789546 / 40545926"},
+        {"kind": "mutual_fund", "entity": "DSP", "rta": "CAMS", "ref": "9369175"},
+        {"kind": "mutual_fund", "entity": "HDFC", "rta": "CAMS", "ref": "30821852"},
+        {"kind": "mutual_fund", "entity": "Kotak Mahindra", "rta": "CAMS", "ref": "15218703"},
+        {"kind": "mutual_fund", "entity": "SBI", "rta": "CAMS", "ref": "39993687"},
+        {"kind": "demat", "ref": "—"},
+        {"label": "LIC – Jeevan Astha Policy (Premium Receipt / Statement)", "ref": "—"},
+        {"kind": "gold", "ref": "—"}
+      ]
+    },
+    "computation": {
+      "bank_accounts": [
+        {"bank": "Axis Bank", "account_type": "Current", "account_no": "911020022433850"},
+        {"bank": "Indian Overseas Bank", "account_type": "Savings", "account_no": "0073201000037676"}
+      ],
+      "investments": []
+    }
+  },
+  "excluded_notes": [
+    "Loans & advances and fixed assets in the balance sheet are excluded from the requirement list per firm convention."
+  ]
+}
